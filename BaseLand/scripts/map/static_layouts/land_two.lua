@@ -25,7 +25,7 @@ return {
   layers = {
     {
       type = "tilelayer",
-      name = "块层 1",
+      name = "BG_TILES",
       x = 0,
       y = 0,
       width = 75,
