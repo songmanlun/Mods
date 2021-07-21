@@ -19,7 +19,7 @@ all_clients_require_mod = true
 icon_atlas = "modicon_theme.xml"
 icon = "modicon_theme.tex"
 
-priority = -999999999 --大于人物mod
+priority = -1999999999 --大于人物mod
 server_filter_tags = {
     --??
 }
