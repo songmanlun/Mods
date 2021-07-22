@@ -4,8 +4,9 @@ require("map/lockandkey")
 
 local Layouts = require("map/layouts").Layouts
 local StaticLayout = require("map/static_layout")
+local path = "map/static_layouts/" .. GetModConfigData('LandType')
 
-Layouts["岛屿"] = StaticLayout.Get("map/static_layouts/" + GetModConfigData('LandType'), 
+Layouts["岛屿"] = StaticLayout.Get(path, 
 {
         start_mask = PLACE_MASK.IGNORE_IMPASSABLE_BARREN_RESERVED,
         fill_mask = PLACE_MASK.IGNORE_IMPASSABLE_BARREN_RESERVED,

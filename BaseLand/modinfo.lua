@@ -1,7 +1,7 @@
 name = "基地岛_自用"
 description = "Create a land for building your home"
 author = "肉丸"
-version = "21.7.20" --更新日期
+version = "21.7.21.1947" --更新日期
 
 forumthread = ""
 
