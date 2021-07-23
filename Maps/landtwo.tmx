@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="75" height="75" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="../../../Steam/steamapps/common/Don't Starve Mod Tools/mod_tools/Tiled/dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="75" height="75" opacity="0.2">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEKxDAMAEGnuP9/OS8IgcMJWjLFdi7EFLYLHWutQ3qony5jxYoVq0qsWLFiVYkVK1asKrFixYpVJVasWLGqxIoVK1aVWLFixarSBKu7HZQpOyoTZ2DFavcMO86xmjWnd5AVq29aua9YvTGD/xUrVmLFitW8WLFixaoSK1asWFVixYoVq0qsWLFiVYkVK1asKrFixYpVJVb/W0k7OwFq5WNu
+  </data>
+ </layer>
+</map>
