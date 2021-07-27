@@ -11,12 +11,11 @@ return {
     {
       name = "ground",
       firstgid = 1,
-      filename = "../../../../../../Steam/steamapps/common/Don't Starve Mod Tools/mod_tools/Tiled/dont_starve/ground.tsx",
       tilewidth = 64,
       tileheight = 64,
       spacing = 0,
       margin = 0,
-      image = "../../../../../../Steam/steamapps/common/Don't Starve Mod Tools/mod_tools/Tiled/dont_starve/tiles.png",
+      image = "../../../../tools/tiled/dont_starve/tiles.png",
       imagewidth = 512,
       imageheight = 384,
       properties = {},

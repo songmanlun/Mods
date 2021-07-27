@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="102" height="102" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="D:/Games/Steam/steamapps/common/Don't Starve Mod Tools/mod_tools/Tiled/dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="102" height="102">
+  <data encoding="base64" compression="zlib">
+   eJzt2M2OhDAMA+BZpH3/V94rQqRNUncnbnzogZ/5sGTKUH4+n8+PBs34NYbM75jW71cyylwzvUYkn8w1M2rs6FkmV7auZtYY5ZO5blbO1tlcda6XIVO9nGYyzOXOZuVs3U1kLpk4s3K27mbUuCbZMv+BnU1Ez/f3DytX9P2ksznqxNOPdX3Pfpn5PqzuZ8cvY1tmzET18swTOV/m3l6894pMzRdmE9ELy3ObxZyNk95zWMxMH6zrAhYT0ck938iL5JKJ6WRHzzK5snU1s8Yon8x1s3K2zuaq87a2kqleTjMZ5nJns3K27iYyl0ycWTlbdzNqsHzfYDERPbN8D2QxR514+rGu79kvM9+H1f3s+GVsy4yZqF6eeSLny9zbi/dekan5wmwiemF5brOYs3HSew6LmemDdV3AYiI6uecbeZFcMjGd7OhZJle2rmbWGOWTuW5WztbZXHXe1lYy1ctpJsNc7mxWztbdROaSiTMrZ+tuRg2W7xssJqJnlu+BLOaoE08/1vU9+2Xm+7C6nx2/jG2ZMRPVyzNP5HyZe3vx3isyNV+YTUQvLM9tFnM2TnrPYTEzfbCuC1hMRCf3fCMvkksmppMdPcvkytbVzBqjfDLXzcrZOpurztvaSqZ6Oc1kmMudzcrZupvIXDJxZuVs3c2owfJ9g8VE9MzyPZDFHHXi6ce6vme/zHwfVvez45exLTNmonp55omcL3NvL957RabmC7OJ6IXluc1izsZJ7zksZqYP1nUBi4no5J5v5EVyycR0sqNnmVzZuppZY5RP5rpZOVtnc9V5W1vJVC+nmQxzubNZOVt3E5lLJs6snK27icwl8zs9e3LJxJuITDL3mhr/P/4ApyV+xQ==
+  </data>
+ </layer>
+</map>
