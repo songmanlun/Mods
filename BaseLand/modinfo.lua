@@ -1,7 +1,7 @@
 name = "基地岛_自用"
 description = "Create a land for building your home"
 author = "肉丸"
-version = "21.7.27.2335" --更新日期
+version = "21.7.30.2019" --更新日期
 
 forumthread = ""
 
@@ -35,7 +35,7 @@ configuration_options =
             {description = "类型一", data = "land_one"},
             {description = "类型二", data = "land_two"},
             {description = "类型三", data = "land_three"}
-            --{description = "类型四", data = 'land_four'}
+            --{description = "类型四", data = "land_four"}
         },
         default = "land_one",
     }
